@@ -1,0 +1,1 @@
+{"goldAmount":5000,"incomeAmount":0,"expAmount":0,"currentLevel":0,"playerPosition":{"x":-0.01864814944565296,"y":1.4900000095367432,"z":8.035337448120118},"buildedObjects":[],"inventory":[]}

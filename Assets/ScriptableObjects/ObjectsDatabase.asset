@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db39bfa863771dd4791d7cea61267c1a, type: 3}
+  m_Name: ObjectsDatabase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Treadmill
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 8815474474839780926, guid: b85d1db17cb904c4e88fd22a2e147ab4, type: 3}
+    <Cost>k__BackingField: 100
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 11400000, guid: 6056778ec9fd4ea40a12c7902bef4a5b, type: 2}
+    <RequiredLevel>k__BackingField: 0
+    Placable: 1
+    icon: {fileID: 21300000, guid: b6cf9769468a9bf4bb75b670d38a9654, type: 3}
+  - <Name>k__BackingField: Pullup Stand
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 566053324466922446, guid: 5750867edc24fe04ea956a29bad489fd, type: 3}
+    <Cost>k__BackingField: 80
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 0}
+    <RequiredLevel>k__BackingField: 10
+    Placable: 1
+    icon: {fileID: 21300000, guid: 030e403b50238504f9a687a9dd323634, type: 3}
+  - <Name>k__BackingField: Exercise Bike
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 9149854737427745456, guid: c1f00a54b551e934e9325308cd1f5c01, type: 3}
+    <Cost>k__BackingField: 100
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 0}
+    <RequiredLevel>k__BackingField: 0
+    Placable: 1
+    icon: {fileID: 21300000, guid: 9211a4c0be1475843bb44db6e444c9c5, type: 3}
+  - <Name>k__BackingField: Stationary Rowing Machine
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 3072504223030440403, guid: 935d5486feae6bc4083e3914d97b3e64, type: 3}
+    <Cost>k__BackingField: 100
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 0}
+    <RequiredLevel>k__BackingField: 1
+    Placable: 1
+    icon: {fileID: 21300000, guid: aec5b935d69493f4ab72e60d84ddcfca, type: 3}
+  - <Name>k__BackingField: Machine
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 5120849729451649982, guid: 7158a57c787b46246838cd14ddd7f6b4, type: 3}
+    <Cost>k__BackingField: 100
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 0}
+    <RequiredLevel>k__BackingField: 1
+    Placable: 1
+    icon: {fileID: 21300000, guid: 0a27f2d9a4fe97b4483d0e09bf78f721, type: 3}
+  - <Name>k__BackingField: Bench Press
+    <Description>k__BackingField: 
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 3316520987620180792, guid: 2c979a8d741048341918c83eeb9f803d, type: 3}
+    <Cost>k__BackingField: 100
+    <Income>k__BackingField: 0
+    <Upgrades>k__BackingField: {fileID: 0}
+    <RequiredLevel>k__BackingField: 2
+    Placable: 1
+    icon: {fileID: 21300000, guid: d302a76a8365a544da688730967a4832, type: 3}
